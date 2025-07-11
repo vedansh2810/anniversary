@@ -70,11 +70,11 @@ body {
 }
 
 #code .string {
-    color: #3943fd
+    color: #3c97ff
 }
 
 #code .keyword {
-    color: #ae0074;
+    color: #f04fff;
     font-weight: bold
 }
 
